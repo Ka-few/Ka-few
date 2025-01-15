@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ka-few
+- 👋 Hi, I’m Francis
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and python
 - 💞️ I’m looking to collaborate on Dapps projects
 - 📫 How to reach me njorovista@gmail.com
 
