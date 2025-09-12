@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Francis
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript and python
-- 💞️ I’m looking to collaborate on Dapps projects
+- 💞️ Collaborations on Agritech / Fintech / Small Business digital solutions
 - 📫 How to reach me njorovista@gmail.com
 
 <!---
