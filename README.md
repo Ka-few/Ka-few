@@ -1,11 +1,11 @@
 - 🚀 Hi, I’m Francis Njoroge
-- 💻 **Junior Software Developer** with a background in IT Sales, Customer Support, and Software Solutions.  
+- 💻 **Software Developer** with a background in IT Sales, Customer Support, and Software Solutions.  
 I’m passionate about using technology to build **impactful digital solutions** that solve real-world problems.
 
 ---
 
 ## 🔥 About Me
-- 🌱 Currently learning **JavaScript, React, Python, and Flask**  
+- 🌱 Working with **JavaScript, React, React native, Python, Express, Django, PHP Laravel and Flask**  
 - 🔍 Interests: **Agritech, Fintech, and Small Business Digital Solutions**  
 - 🤝 Open to collaborations on **community-driven projects**  
 - ⚡ Fun fact: I love turning everyday challenges into coding projects!
